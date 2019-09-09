@@ -1,11 +1,11 @@
 def my_hash
-  my_hash = {
+  your_hash = {
     "name" => "Laura",
     "age" => "23",
     "occupation" => "student"
   }
 
-  
+  your_hash
 end
 
 
